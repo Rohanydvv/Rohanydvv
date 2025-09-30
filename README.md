@@ -1,7 +1,7 @@
  Hey!! this is me @Rohanydvv
- 
-Currently I am studying C++
- 
+ c++ , java script
+ html , CSS , react JS , next JS
+ DSA(solved 200+ ques) , DBMS , OOP
 Can contact me at my gmail rohanyadav352004@gmail.com
 
 
