@@ -1,11 +1,60 @@
- Hey!! this is me @Rohanydvv
- c++ , java script
- html , CSS , react JS , next JS
- DSA(solved 200+ ques) , DBMS , OOP
-Can contact me at my gmail rohanyadav352004@gmail.com
+<h1 align="center">Hey there 👋, I'm Rohan </h1>
+<h3 align="center">💻 Web Developer | 🧠 C++ & DSA Enthusiast</h3>
 
+<p align="center">
+  <a href="mailto:rohanyadav352004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rohanyadav352004%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/_rohanydv">
+    <img src="https://img.shields.io/badge/LinkedIn-_rohanydv-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Rohanydvv">
+    <img src="https://img.shields.io/badge/GitHub-Rohanydvv-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-<!---
-Rohanydvv/Rohanydvv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🚀 About Me  
+- 🌱 I’m currently improving my **DSA and Web Development** skills  
+- 💬 Ask me about **HTML, CSS, JavaScript, React, and C++**  
+- 🧩 I enjoy solving problems and building responsive, creative projects  
+- ⚡ Fun fact: I turn coffee ☕ into clean code  
+
+---
+
+### 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,cpp,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rohanydvv&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohanydvv&theme=tokyonight" height="165">
+</p>
+
+---
+
+### 🧠 Top Languages  
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rohanydvv&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### ⚙️ Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohanydvv&theme=tokyo-night" />
+</p>
+
+---
+
+<h3 align="center">💬 Let's Connect & Build Something Cool Together!</h3>
+<p align="center">
+  <a href="mailto:rohanyadav352004@gmail.com">
+    <img src="https://img.shields.io/badge/Reach_Me-Here!-brightgreen?style=for-the-badge" />
+  </a>
+</p>
