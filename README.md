@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Rohan </h1>
+<h1 align="center">Hey there 👋, I'm Rohan</h1>
 <h3 align="center">💻 Web Developer | 🧠 C++ & DSA Enthusiast</h3>
 
 <p align="center">
@@ -8,8 +8,8 @@
   <a href="https://linkedin.com/in/_rohanydv">
     <img src="https://img.shields.io/badge/LinkedIn-_rohanydv-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/Rohanydvv">
-    <img src="https://img.shields.io/badge/GitHub-Rohanydvv-black?style=for-the-badge&logo=github" />
+  <a href="https://github.com/Rohanydv">
+    <img src="https://img.shields.io/badge/GitHub-Rohanydv-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
@@ -32,22 +32,22 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rohanydvv&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohanydvv&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohanydv&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohanydv&theme=tokyonight" height="165">
 </p>
 
 ---
 
 ### 🧠 Top Languages  
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rohanydvv&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohanydv&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### ⚙️ Activity Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohanydvv&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohanydv&theme=tokyo-night" />
 </p>
 
 ---
